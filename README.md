@@ -1,5 +1,5 @@
 # Hello there!
-I'm Ella, a curious frontend developer based in Stockholm. I enjoy creating modern and appealing websites while listening to some amazing music 😁 I'm currently studying *Frontend / App Development* at [Changemaker Educations](https://cmeducations.se/utbildningar/program/frontend-app-developer)
+I'm Ella, a curious frontend developer based in Stockholm. I enjoy creating modern and appealing websites while listening to some amazing music 😁
 
 ## This is what I do if I get to choose
 <p>
