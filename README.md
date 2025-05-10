@@ -1,9 +1,9 @@
 # Hello there!
-I'm Ella, a curious frontend developer based in Stockholm. I enjoy creating modern and appealing websites while listening to some amazing music 😁
+I'm Ella, a curious fullstack developer based in Stockholm. I enjoy creating modern and appealing websites while listening to some amazing music 😁
 
 ## This is what I do if I get to choose
 <p>
-  <img alt="Next.js" src="https://img.shields.io/badge/next.js 13-fff?style=for-the-badge&logo=nextdotjs&logoColor=000" />
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=000" />
   <img alt="React" src="https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react" />
   <img alt="Vite" src="https://img.shields.io/badge/vite-fff?style=for-the-badge&logo=vite" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind-fff?style=for-the-badge&logo=tailwindcss" />
