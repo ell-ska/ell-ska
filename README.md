@@ -1,4 +1,8 @@
-### Hi, I'm Ellska!
+<h1>
+  <img height="48" alt="flower" src="./logo-flower.svg" />
+  &nbsp;
+  <span>Hi, I'm Ellska!</span>
+</h1>
 
 A curious fullstack developer with a love for details and edge cases.
 
@@ -31,7 +35,7 @@ A curious fullstack developer with a love for details and edge cases.
 
 ### Statistics
 
-<div align="center">  
+<div>  
   <img src="https://github-readme-stats.vercel.app/api?username=ell-ska&theme=transparent&hide_border=true&include_all_commits=false&count_private=false">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ell-ska&theme=transparent&hide_border=true">
 </div>
